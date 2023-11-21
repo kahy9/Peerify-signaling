@@ -18,4 +18,4 @@ npm run dev | yarn dev
 This will start the signaling server and it will be ready to accept connections from clients.
 
 ## Client part
-The client part is available in the repository: <a href="https://github.com/kahy9/peerify" passHref>Peerify Client</a>
+The client part is available in the repository: <a href="https://github.com/kahy9/peerify">Peerify Client</a>
